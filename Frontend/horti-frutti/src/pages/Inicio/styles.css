@@ -1,0 +1,10 @@
+.inicio_container{
+    background-color: rgb(218, 169, 96);
+}
+
+.center{
+    display: block;
+    margin-left:auto ;
+    margin-right: auto;
+    width: 80%;
+}

@@ -1,0 +1,28 @@
+@import '~antd/dist/antd.css';
+
+.main {
+height: 100vh,
+  }
+  .main-content{
+    height: inherit;
+  }
+  .footer{
+    background-color:blanchedalmond ;
+    text-align: center;
+    font-weight: 600
+    ;
+  }
+  .header{
+    background-color: blanchedalmond;
+    font-size: 16px;
+    font-weight: 700;
+
+  }
+  .menu{
+    background-color: blanchedalmond;
+    pandding: 16px;
+
+  }
+  .menu-section{
+    background-color: blanchedalmond;
+  }
